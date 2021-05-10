@@ -16,6 +16,7 @@ uritemplate = "*"
 drf-yasg = "*"
 django-heroku = "*"
 gunicorn = "*"
+django-parler = "*"
 
 [dev-packages]
 
