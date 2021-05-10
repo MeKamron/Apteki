@@ -17,6 +17,7 @@ drf-yasg = "*"
 django-heroku = "*"
 gunicorn = "*"
 django-parler = "*"
+python-slugify = "*"
 
 [dev-packages]
 
